@@ -45,3 +45,5 @@
        alt="Luis Camilo - Telegram">
 </a>
 </div>
+
+![Snake animation](https://github.com/lhenriquegomescamilo/lhenriquegomescamilo/blob/output/github-contribution-grid-snake.svg)
