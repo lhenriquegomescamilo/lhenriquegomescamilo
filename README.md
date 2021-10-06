@@ -28,7 +28,7 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
----
+
 
 <br>
 <br>
@@ -45,5 +45,5 @@
        alt="Luis Camilo - Telegram">
 </a>
 </div>
-
+---
 ![Snake animation](https://github.com/lhenriquegomescamilo/lhenriquegomescamilo/blob/output/github-contribution-grid-snake.svg)
