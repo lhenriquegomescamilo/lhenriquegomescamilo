@@ -14,12 +14,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="35" width="40" alt="Luis Camilo - Spring"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - NestJs"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Angular"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - ReactiveX"
-       src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png">
+  <img align="center" height="35" width="40" alt="Luis Camilo - Quarkus"
+       src="https://quarkus.io/assets/images/brand/quarkus_icon_default.svg">
   <img align="center" height="35" width="40" alt="Luis Camilo - Apache Kafka"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
   <img align="center" height="35" width="40" alt="Luis Camilo - PostgreSQL"
