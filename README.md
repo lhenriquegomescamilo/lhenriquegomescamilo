@@ -20,6 +20,8 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
   <img align="center" height="35" width="40" alt="Luis Camilo - PostgreSQL"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" height="35" width="40" alt="Luis Camilo - Neo4j"
+       src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg">
   <img align="center" height="35" width="40" alt="Luis Camilo - Linux"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
