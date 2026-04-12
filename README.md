@@ -1,35 +1,54 @@
-<div>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=lhenriquegomescamilo&theme=darcula&show_icons=true&hide_rank=true" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquegomescamilo&layout=compact&langs_count=16&hide=javascript,typescript,html,scss,css,groovy,c%2B%2B,php,c,smarty,ruby,batchfile,shell,powershell,mustache&theme=darcula" />
-</div>
+### Backend & Distributed Systems Engineer
+
+Backend Software Engineer with nearly 10 years of experience designing and building robust, scalable, event-driven systems using JVM-based languages. Delivered production-grade microservices across fintech, automotive, banking, and mining sectors. Strong background in clean architecture, Domain-Driven Design, and system resilience on AWS and Azure.
+
+AI & LLM enthusiast — currently exploring machine learning fundamentals hands-on: building neural networks from scratch, vector space models for semantic search, and fraud detection using graph algorithms combined with deep learning.
+
 <br>
-<div style="display: inline-block; cursor: pointer">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Kotlin"
+
+**Core Stack**
+
+<div style="display: inline-block">
+  <img align="center" height="35" width="40" alt="Kotlin"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Java"
+  <img align="center" height="35" width="40" alt="Java"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - TypeScript"
+  <img align="center" height="35" width="40" alt="Scala"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
+  <img align="center" height="35" width="40" alt="TypeScript"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Spring"
+  <img align="center" height="35" width="40" alt="Spring"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Quarkus"
-       src="https://quarkus.io/assets/images/brand/quarkus_icon_default.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Apache Kafka"
+  <img align="center" height="35" width="40" alt="Quarkus"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg">
+  <img align="center" height="35" width="40" alt="Apache Kafka"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - PostgreSQL"
+  <img align="center" height="35" width="40" alt="PostgreSQL"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Neo4j"
-       src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg">
-  <img align="center" height="35" width="40" alt="Luis Camilo - Linux"
+  <img align="center" height="35" width="40" alt="Redis"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" height="35" width="40" alt="Neo4j"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg">
+  <img align="center" height="35" width="40" alt="AWS"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" height="35" width="40" alt="Docker"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" height="35" width="40" alt="Linux"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
+<br>
+<br>
 
+**Research & Learning**
+
+- Neural networks built from scratch (feedforward, backpropagation) using Kotlin
+- Vector space models & semantic search with Ktor
+- Graph-based fraud detection combining Tarjan's algorithm (SCCs) with KotlinDL
 
 <br>
 <br>
+
 <div>
   <a href="https://www.linkedin.com/in/luis-camilo-000192105" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -38,10 +57,11 @@
   <a href="mailto:lhenriquegomescamilo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Luis Camilo - Gmail">
-  </a><a href="https://t.me/lhenriquegomescamilo" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-       alt="Luis Camilo - Telegram">
-</a>
+  </a>
+  <a href="https://t.me/lhenriquegomescamilo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+         alt="Luis Camilo - Telegram">
+  </a>
 </div>
 
 ---
