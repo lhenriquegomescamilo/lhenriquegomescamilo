@@ -1,6 +1,6 @@
 ### Backend & Distributed Systems Engineer
 
-Backend Software Engineer with nearly 10 years of experience designing and building robust, scalable, event-driven systems using JVM-based languages. Delivered production-grade microservices across fintech, automotive, banking, and mining sectors. Strong background in clean architecture, Domain-Driven Design, and system resilience on AWS and Azure.
+Backend Software Engineer with more than 10 years of experience designing and building robust, scalable, event-driven systems using JVM-based languages. Delivered production-grade microservices across fintech, automotive, banking, and mining sectors. Strong background in clean architecture, Domain-Driven Design, and system resilience on AWS and Azure.
 
 AI & LLM enthusiast — currently exploring machine learning fundamentals hands-on: building neural networks from scratch, vector space models for semantic search, and fraud detection using graph algorithms combined with deep learning.
 
